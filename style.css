@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: black;
+    text-align:left;
+  }
+
+  h2{
+    color: black ;
+    text-align: center;
+  }
+  
+  h3{color: black;
+    text-decoration: solid;
+
+  }
+
+  h6{
+    color:black;
+    text-align: left;
+    font-size: large;
+  }
+
+
+header {
+    background-color: beige;
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+
+section {
+    text-align: center;
+}
+
+div{
+    display: flex;
+    margin: 25px 0px 0px 0px;
+}
+
+
+        .block1{
+            background-color: beige;
+        }   
+        .block1 {
+            border: 5px solid black;
+        }
+
+    
+    
+       
+        
+        .block2{
+            background-color: beige;
+        }
+        .block2 article {
+            display: flex;
+        }
+        .block2 {
+            border: 5px solid black;
+            }
+      
+        
+        
+        
+        .block3 {
+                background-color: beige;
+            }
+          
+        .block3 {
+                border: 5px solid black;
+                }
+        
+
+
+
+                
+
+
+
+
+
+
+
+
